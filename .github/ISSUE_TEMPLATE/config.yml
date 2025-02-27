@@ -9,3 +9,4 @@ contact_links:
     - name: 💻 Discord
       url: https://discord.gg/UHrpNWGwkH
       about: Join our Discord server to chat with other users in the Proxmox Helper Scripts community.
+      baseurl: "/scripts"
